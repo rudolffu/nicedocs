@@ -37,6 +37,7 @@ evidence and proposes prioritized fixes. For other tools, see [Install](#install
 | [`docs-markup`](skills/docs-markup/SKILL.md) | Write, fix, and convert Markdown, reStructuredText, AsciiDoc, and XML |
 | [`docs-tooling`](skills/docs-tooling/SKILL.md) | Set up docs as code, choose a generator, add docs CI (build, links, Vale), SEO, and API docs |
 | [`docs-advocacy`](skills/docs-advocacy/SKILL.md) | Make the case for docs work, build a docs culture, work with support, and handle imposter syndrome |
+| [`docs-design`](skills/docs-design/SKILL.md) | Improve visual design: themes, layout, callouts, screenshots, diagrams, GIFs and video, badges, and alt text |
 
 ## How it works
 
@@ -134,6 +135,7 @@ validator needs Python 3.9 or later. Neither needs extra packages.
 | "Convert `guide.md` to reStructuredText for our Sphinx site." | `docs-markup` |
 | "Add link checking and Vale to our docs CI." | `docs-tooling` |
 | "Help me write a one-page case for investing in internal docs." | `docs-advocacy` |
+| "Make our docs site look more polished, and write a screenshot style guide." | `docs-design` |
 
 ## Troubleshooting
 

@@ -1,7 +1,7 @@
 {
   "name": "nicedocs",
   "version": "0.1.0",
-  "description": "Documentation-writing skills for AI coding agents, built on the Write the Docs Documentation Guide: principles audit, READMEs and project docs, style/accessibility/inclusive-language review, markup (Markdown, reST, AsciiDoc, XML), docs-as-code tooling, and docs advocacy.",
+  "description": "Documentation-writing skills for AI coding agents, built on the Write the Docs Documentation Guide: principles audit, READMEs and project docs, style/accessibility/inclusive-language review, markup (Markdown, reST, AsciiDoc, XML), docs-as-code tooling, docs advocacy, and visual design (themes, screenshots, diagrams).",
   "author": {
     "name": "Yuming Fu",
     "url": "https://github.com/rudolffu"
@@ -20,6 +20,9 @@
     "sphinx",
     "markdown",
     "restructuredtext",
-    "asciidoc"
+    "asciidoc",
+    "docs-design",
+    "screenshots",
+    "diagrams"
   ]
 }

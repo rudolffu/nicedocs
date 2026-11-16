@@ -117,7 +117,8 @@ fix it. The principles are grouped by what they apply to.
   plain-text `--help` output.
 - **Signs it is broken:** Inconsistent spacing, capitalization, and layout, or walls of text.
 - **Fix:** Be deliberate about layout and formatting. If visual style isn't your strength,
-  ask someone for whom it is.
+  ask someone for whom it is. For concrete guidance on themes, callouts, screenshots, and
+  diagrams, use the `docs-design` skill.
 
 ## Body (all publications together)
 

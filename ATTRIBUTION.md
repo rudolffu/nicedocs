@@ -1,8 +1,10 @@
 # Attribution
 
-NiceDocs adapts material from the **Write the Docs Documentation Guide**.
+NiceDocs adapts material from the **Write the Docs Documentation Guide**, and from
+selected sections of the **Write the Docs newsletter**. Both are published from the same
+source repository under the same license.
 
-- **Source:** <https://www.writethedocs.org/guide/>
+- **Sources:** <https://www.writethedocs.org/guide/> and <https://www.writethedocs.org/newsletter/>
 - **Source repository:** [writethedocs/www](https://github.com/writethedocs/www), pinned at
   commit [`c37669d0c87740b1455821cbee7fc10c8ee6cf7f`](https://github.com/writethedocs/www/tree/c37669d0c87740b1455821cbee7fc10c8ee6cf7f/docs/guide)
 - **Copyright:** © Write the Docs contributors
@@ -18,7 +20,7 @@ endorsed by Write the Docs.
 
 The source pages were **condensed, reorganized, and rewritten as instructions,
 checklists, and templates for AI agents**. Specifically:
-- Pages were grouped into six skills, and related pages were merged into single references.
+- Pages were grouped into seven skills, and related pages were merged into single references.
 - Prose was shortened. Many link lists were trimmed to a selection, and talk lists and
   most book links were dropped.
 - Checklists, decision tables, output templates, example rewrites, and agent guardrails
@@ -51,6 +53,16 @@ checklists, and templates for AI agents**. Specifically:
 | `writing/mindshare.rst` | `skills/docs-advocacy/references/building-mindshare.md` |
 | `writing/support-team.rst` | `skills/docs-advocacy/references/support-teams.md` |
 | `imposter.rst` | `skills/docs-advocacy/references/imposter-syndrome.md` |
+| `tools/sphinx-themes.rst`, `tools/sphinx-community.rst` | `skills/docs-design/references/themes-and-extensions.md` |
+
+| WTD newsletter section (`docs/blog/…`) | Adapted in |
+|---|---|
+| `newsletter-october-2024.rst`: "Using callouts/admonitions in tech docs" | `skills/docs-design/references/layout-and-callouts.md` |
+| `newsletter-november-2025.rst`: "Create a screenshot style guide" | `skills/docs-design/references/screenshots.md` |
+| `newsletter-may-2020.rst`: "Tips for creating quality screenshots" | `skills/docs-design/references/screenshots.md` |
+| `newsletter-february-2023.rst`: "Inclusiveness in diagrams" | `skills/docs-design/references/diagrams-and-media.md` |
+| `newsletter-july-2025.rst`: "To autoplay animated GIFs or not" | `skills/docs-design/references/diagrams-and-media.md` |
+| `newsletter-february-2026.rst`: "Style guidance for alt text" | `skills/docs-design/references/diagrams-and-media.md` |
 
 The `SKILL.md` files summarize their references and are adaptations under the same terms.
 

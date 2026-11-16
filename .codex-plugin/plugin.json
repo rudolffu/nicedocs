@@ -9,15 +9,25 @@
   "homepage": "https://github.com/rudolffu/nicedocs",
   "repository": "https://github.com/rudolffu/nicedocs",
   "license": "CC-BY-NC-SA-4.0 AND MIT",
-  "keywords": ["documentation", "technical-writing", "write-the-docs", "readme", "style-guide", "docs-as-code"],
+  "keywords": [
+    "documentation",
+    "technical-writing",
+    "write-the-docs",
+    "readme",
+    "style-guide",
+    "docs-as-code"
+  ],
   "skills": "./skills/",
   "interface": {
     "displayName": "NiceDocs",
     "shortDescription": "Write, review, and tool up great software docs",
-    "longDescription": "Six skills adapted from the Write the Docs Documentation Guide: a documentation-principles audit, READMEs and project docs, style, accessibility and inclusive-language review, markup help for Markdown, reStructuredText, AsciiDoc and XML, docs-as-code tooling and CI checks, and documentation advocacy. Content is CC BY-NC-SA 4.0; code is MIT.",
+    "longDescription": "Seven skills adapted from the Write the Docs Documentation Guide and newsletter: a documentation-principles audit, READMEs and project docs, style, accessibility and inclusive-language review, markup help for Markdown, reStructuredText, AsciiDoc and XML, docs-as-code tooling and CI checks, documentation advocacy, and visual design (themes, callouts, screenshots, diagrams). Content is CC BY-NC-SA 4.0; code is MIT.",
     "developerName": "Yuming Fu",
     "category": "Coding",
-    "capabilities": ["Interactive", "Write"],
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
     "websiteURL": "https://github.com/rudolffu/nicedocs",
     "defaultPrompt": [
       "Write a README for this project",

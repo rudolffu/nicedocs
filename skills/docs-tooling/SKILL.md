@@ -32,6 +32,7 @@ docs. Background: [references/docs-as-code.md](references/docs-as-code.md).
   `index.rst`, toctrees, MyST for Markdown).
 - Others (MkDocs, Docusaurus, Hugo, Jekyll, Antora): use the tool's official quick start.
   Keep the docs in the same repo as the code (Nearby principle).
+- For the theme, extensions, and visual polish, use the `docs-design` skill.
 - Add a page hierarchy that answers "where do I put it?": tutorials, how-to guides,
   reference, and explanation, or the project's existing taxonomy.
 

@@ -6,10 +6,10 @@ This page lists each resource and how it is used here.
 
 | Resource | How NiceDocs uses it |
 |---|---|
-| [Documentation guide](https://www.writethedocs.org/guide/) | **Adapted.** The foundation of all six skills (CC BY-NC-SA 4.0; see [ATTRIBUTION.md](../ATTRIBUTION.md)). |
+| [Documentation guide](https://www.writethedocs.org/guide/) | **Adapted.** The foundation of every skill (CC BY-NC-SA 4.0; see [ATTRIBUTION.md](../ATTRIBUTION.md)). |
 | [Content by topic](https://www.writethedocs.org/topics/) | **Linked** as further reading: an index of talks and newsletter articles by subject. |
 | [Talk videos](https://www.youtube.com/c/WritetheDocs) | **Linked** as further reading. Not reproduced. |
-| [Newsletter](https://www.writethedocs.org/newsletter/) | **Linked** as further reading. |
+| [Newsletter](https://www.writethedocs.org/newsletter/) | **Partly adapted.** Selected sections on callouts, screenshots, diagrams, animated GIFs, and alt text feed `docs-design`. Other issues are linked as further reading. |
 | [Podcast](https://www.writethedocs.org/podcast/) | **Linked** as further reading. |
 | [Book club](https://www.writethedocs.org/book-club/) | **Linked** as further reading. |
 | [Reading list](https://www.writethedocs.org/books/) | **Titles only.** The books are copyrighted works; skills mention a few by title. |
@@ -19,10 +19,10 @@ This page lists each resource and how it is used here.
 
 ## Skill map
 
-Each part of the Documentation Guide feeds one skill. For the exact page-to-file map,
-see [ATTRIBUTION.md](../ATTRIBUTION.md#source-page--adapted-file-map).
+Each part of the Documentation Guide, plus selected newsletter sections, feeds one skill.
+For the exact page-to-file map, see [ATTRIBUTION.md](../ATTRIBUTION.md#source-page--adapted-file-map).
 
-| Guide section | Skill |
+| Source | Skill |
 |---|---|
 | Documentation principles | [`docs-principles`](../skills/docs-principles/SKILL.md) |
 | How to start writing; starting a new doc | [`project-docs`](../skills/project-docs/SKILL.md) |
@@ -30,6 +30,7 @@ see [ATTRIBUTION.md](../ATTRIBUTION.md#source-page--adapted-file-map).
 | Markup languages | [`docs-markup`](../skills/docs-markup/SKILL.md) |
 | Docs as code, DocOps, tools, SEO, API documentation | [`docs-tooling`](../skills/docs-tooling/SKILL.md) |
 | Mindshare, support teams, imposter syndrome | [`docs-advocacy`](../skills/docs-advocacy/SKILL.md) |
+| Sphinx themes; newsletter sections on callouts, screenshots, diagrams, GIFs, and alt text | [`docs-design`](../skills/docs-design/SKILL.md) |
 
 ## Community
 For questions about documentation practice, the Write the Docs community runs a

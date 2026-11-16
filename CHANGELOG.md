@@ -18,6 +18,10 @@ All notable changes to this project are documented here. The format follows
 - CI actions updated to current major versions.
 
 ### Added
+- `docs-design` skill for visual design: themes and extensions, layout and callouts,
+  screenshots and screenshot style guides, diagrams, animated GIFs and video, badges, and
+  alt text. Adapted from the WTD Sphinx themes page and selected WTD newsletter sections.
+- GitHub badge row, repository link, and GitHub footer icon on the docs site landing page.
 - Documentation site built with Sphinx, MyST, and Furo, configured for Read the Docs
   (`.readthedocs.yaml`, `docs/conf.py`, `index.md`), with a docs build job in CI.
 - Pull request template with a docs checklist.

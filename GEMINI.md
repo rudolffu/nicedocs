@@ -13,5 +13,6 @@ this Gemini CLI, read its `SKILL.md` directly.
 | Write, fix, or convert Markdown / reStructuredText / AsciiDoc / XML | `skills/docs-markup/SKILL.md` |
 | Docs-as-code, choosing tools, docs CI, SEO, API docs | `skills/docs-tooling/SKILL.md` |
 | Justify docs, build a docs culture, support teams, imposter syndrome | `skills/docs-advocacy/SKILL.md` |
+| Visual design: themes, layout, callouts, screenshots, diagrams, media, alt text | `skills/docs-design/SKILL.md` |
 
 Load a skill's `references/` files only when the skill points you to them.
