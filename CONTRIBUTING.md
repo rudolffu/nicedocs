@@ -30,6 +30,24 @@ session:
 scripts/install.sh opencode --project /path/to/test-project --link
 ```
 
+### Preview the documentation site
+
+The site is built with Sphinx and MyST from the Markdown files in place. `docs/conf.py`
+holds the configuration and `index.md` is the landing page. Read the Docs runs the same
+build (see `.readthedocs.yaml`). To preview it locally:
+
+```bash
+python3 -m venv .venv && .venv/bin/pip install -r docs/requirements.txt
+```
+
+```bash
+.venv/bin/python -m sphinx -T -W --keep-going -b html -c docs . _build/html
+```
+
+Open `_build/html/index.html` in a browser. The build treats warnings as errors, like CI.
+When you add a new page, list it in a `toctree` in `index.md`. Skill reference pages are
+picked up automatically.
+
 ## Ground rules
 
 - **Licensing.** Content under `skills/` and `docs/` is CC BY-NC-SA 4.0. Code, CI, and

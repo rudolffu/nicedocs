@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Yuming Fu
+# SPDX-License-Identifier: MIT
+#
+# Pinned so local, CI, and Read the Docs builds are reproducible.
+sphinx==9.2.0
+myst-parser==5.2.0
+furo==2025.12.19

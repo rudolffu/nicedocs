@@ -30,7 +30,7 @@ installed by sysadmins needs more installation scenarios. See
 [references/starting-a-new-doc.md](references/starting-a-new-doc.md).
 
 ### 2. Write the README (the first thing users see)
-Start from [assets/README.template.md](assets/README.template.md). Every README needs:
+Start from [assets/README.template.md.tmpl](assets/README.template.md.tmpl). Every README needs:
 
 1. **What and why.** Name the problem the project solves, in the first lines.
 2. **A small code example.** Show the most common use case, and make it runnable.
@@ -46,11 +46,11 @@ Details and rationale: [references/what-to-include.md](references/what-to-includ
 ### 3. Grow beyond the README when needed
 - Installation, tutorials, how-to guides, and reference get their own pages once the
   README is longer than a screen or two. Use
-  [assets/doc-page.template.md](assets/doc-page.template.md) for task pages.
+  [assets/doc-page.template.md.tmpl](assets/doc-page.template.md.tmpl) for task pages.
 - **Avoid using an FAQ as the main docs.** It is fine as a stop-gap, but FAQs go stale,
   collect unrelated content, become hard to search, and rarely reflect questions users
   actually asked. Move FAQ answers into proper pages as soon as you can.
-- **Release notes:** use [assets/release-notes.template.md](assets/release-notes.template.md)
+- **Release notes:** use [assets/release-notes.template.md.tmpl](assets/release-notes.template.md.tmpl)
   and the checklist in [references/content-types.md](references/content-types.md).
 
 ### 4. Check before you hand it over

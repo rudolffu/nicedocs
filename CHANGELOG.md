@@ -12,11 +12,14 @@ All notable changes to this project are documented here. The format follows
   each platform, requirements, troubleshooting, and a support section.
 - CONTRIBUTING expanded with ways to contribute, setup, writing conventions, the files to
   update when adding a skill, and the release and upstream-sync steps.
+- Project-docs templates renamed to `*.md.tmpl`, so the docs site offers them as downloads.
 - Spelling standardized to US English across all docs and skills.
 - `docs/sources.md` skill map converted from a text diagram to an accessible table.
 - CI actions updated to current major versions.
 
 ### Added
+- Documentation site built with Sphinx, MyST, and Furo, configured for Read the Docs
+  (`.readthedocs.yaml`, `docs/conf.py`, `index.md`), with a docs build job in CI.
 - Pull request template with a docs checklist.
 - Weekly external link-check workflow (lychee).
 

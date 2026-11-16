@@ -29,7 +29,7 @@ Checklist for each entry:
 6. Would an image or short example help?
 7. Who must approve the entry (for example legal, for policy changes)?
 
-Template: [../assets/release-notes.template.md](../assets/release-notes.template.md).
+Template: [../assets/release-notes.template.md.tmpl](../assets/release-notes.template.md.tmpl).
 
 Avoid release notes that say nothing, such as "bug fixes and performance improvements"
 with no detail.

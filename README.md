@@ -163,6 +163,7 @@ validator needs Python 3.9 or later. Neither needs extra packages.
 | `scripts/install.sh` | Installer for tools that read a skills folder |
 | `scripts/validate.py` | Checks for skill spec, manifests, attribution, and links (runs in CI) |
 | `docs/sources.md` | How each Write the Docs learning resource is used |
+| `index.md`, `docs/conf.py`, `.readthedocs.yaml` | Documentation site (Sphinx + MyST, built by Read the Docs) |
 
 ## License and attribution
 

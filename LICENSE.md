@@ -7,8 +7,8 @@ CC BY-NC-SA 4.0. Its ShareAlike term requires adapted material to keep that lice
 
 | What | Paths | License |
 |---|---|---|
-| Documentation content (skills, references, templates, prose docs) | `skills/**`, `docs/**`, `GEMINI.md`, `README.md`, `ATTRIBUTION.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, `LICENSE.md` | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — full text in [`LICENSES/CC-BY-NC-SA-4.0.txt`](LICENSES/CC-BY-NC-SA-4.0.txt) |
-| Code and configuration (scripts, CI, plugin manifests) | `scripts/**`, `.github/**`, `.claude-plugin/**`, `.codex-plugin/**`, `.agents/**`, `gemini-extension.json`, `REUSE.toml`, `.gitignore` | [MIT](https://opensource.org/license/mit) — full text in [`LICENSES/MIT.txt`](LICENSES/MIT.txt) |
+| Documentation content (skills, references, templates, prose docs) | `skills/**`, `docs/**/*.md`, `index.md`, `GEMINI.md`, `README.md`, `ATTRIBUTION.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, `LICENSE.md` | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — full text in [`LICENSES/CC-BY-NC-SA-4.0.txt`](LICENSES/CC-BY-NC-SA-4.0.txt) |
+| Code and configuration (scripts, CI, plugin manifests, docs-site config) | `scripts/**`, `docs/conf.py`, `docs/requirements.txt`, `.readthedocs.yaml`, `.github/**`, `.claude-plugin/**`, `.codex-plugin/**`, `.agents/**`, `gemini-extension.json`, `REUSE.toml`, `.gitignore` | [MIT](https://opensource.org/license/mit) — full text in [`LICENSES/MIT.txt`](LICENSES/MIT.txt) |
 
 The authoritative, machine-readable mapping is [`REUSE.toml`](REUSE.toml), which follows
 the [REUSE specification](https://reuse.software/spec/).

@@ -32,7 +32,7 @@ checklists, and templates for AI agents**. Specifically:
 | WTD source (`docs/guide/…`) | Adapted in |
 |---|---|
 | `writing/docs-principles.rst` | `skills/docs-principles/references/principles.md`, `skills/docs-principles/SKILL.md` |
-| `writing/beginners-guide-to-docs.rst` | `skills/project-docs/references/what-to-include.md`, `skills/project-docs/assets/README.template.md` |
+| `writing/beginners-guide-to-docs.rst` | `skills/project-docs/references/what-to-include.md`, `skills/project-docs/assets/README.template.md.tmpl` |
 | `Starting-a-new-doc.rst`, `starting.rst` | `skills/project-docs/references/starting-a-new-doc.md`, `skills/docs-advocacy/references/building-mindshare.md` |
 | `writing/style-guides.md` | `skills/docs-review/references/style-guides.md`, `skills/docs-review/references/ux-writing.md`, `skills/docs-review/references/inclusive-language.md`, `skills/project-docs/references/content-types.md`, `skills/docs-tooling/references/api-docs.md` |
 | `writing/accessibility.md` | `skills/docs-review/references/accessibility.md` |
