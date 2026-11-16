@@ -51,7 +51,7 @@ fix it. The principles are grouped by what they apply to.
 ### Consistent: same language and formatting
 - **Why:** Consistency lowers cognitive load and supports skimmability and visual polish.
   It matters more as the number of authors grows.
-- **Signs it is broken:** One thing has several names. Capitalisation, code formatting, and
+- **Signs it is broken:** One thing has several names. Capitalization, code formatting, and
   voice vary from page to page.
 - **Fix:** Adopt or write a style guide (see the `docs-review` skill). Keep a terminology list.
 
@@ -115,7 +115,7 @@ fix it. The principles are grouped by what they apply to.
 ### Beautiful: intentional visual style
 - **Why:** Some readers struggle with docs that look careless, and this is true even of
   plain-text `--help` output.
-- **Signs it is broken:** Inconsistent spacing, capitalisation, and layout, or walls of text.
+- **Signs it is broken:** Inconsistent spacing, capitalization, and layout, or walls of text.
 - **Fix:** Be deliberate about layout and formatting. If visual style isn't your strength,
   ask someone for whom it is.
 
@@ -131,4 +131,4 @@ fix it. The principles are grouped by what they apply to.
 
 ---
 
-*Adapted from "[Documentation principles](https://www.writethedocs.org/guide/writing/docs-principles/)" (source: [`docs/guide/writing/docs-principles.rst`](https://github.com/writethedocs/www/blob/c37669d0c87740b1455821cbee7fc10c8ee6cf7f/docs/guide/writing/docs-principles.rst)), © Write the Docs contributors, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Changes: condensed, reorganised, and rewritten as agent instructions with failure signs and fixes, by Yuming Fu, 2026.*
+*Adapted from "[Documentation principles](https://www.writethedocs.org/guide/writing/docs-principles/)" (source: [`docs/guide/writing/docs-principles.rst`](https://github.com/writethedocs/www/blob/c37669d0c87740b1455821cbee7fc10c8ee6cf7f/docs/guide/writing/docs-principles.rst)), © Write the Docs contributors, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Changes: condensed, reorganized, and rewritten as agent instructions with failure signs and fixes, by Yuming Fu, 2026.*

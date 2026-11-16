@@ -8,7 +8,7 @@ Answer these questions:
 - Is it aimed at a particular kind of user or business role? What do those users care about?
 
 The answers tell you which workflows to cover, which features and concepts need
-explaining, and how to organise the content.
+explaining, and how to organize the content.
 
 ## Step 2: let product type and audience choose the shape
 

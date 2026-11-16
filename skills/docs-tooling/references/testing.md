@@ -24,7 +24,7 @@ Tip: run external-link checks on a schedule rather than on every pull request, s
 third-party sites don't block merges.
 
 ## Layer 3: style and prose linting
-Linters automatically enforce rules such as style-guide terms and brand capitalisation.
+Linters automatically enforce rules such as style-guide terms and brand capitalization.
 
 **[Vale](https://vale.sh/)** is a fast, syntax-aware prose linter. It ships with no rules.
 You add packages from the [Vale package hub](https://vale.sh/explorer), for example

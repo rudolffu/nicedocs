@@ -31,13 +31,13 @@ need to understand how the software works and how it solves users' problems.
 - Don't take a developer's word for something you don't understand. Keep asking and reading.
 - Focus on the sections users need most, not the ones you're most comfortable with.
 - If you're introverted, push past the reluctance to chase people for answers.
-- Your job isn't to know everything. It is to synthesise everyone's knowledge into the
+- Your job isn't to know everything. It is to synthesize everyone's knowledge into the
   form most useful to users.
 - Gaps run both ways, so keep stakeholders informed about your work.
 - Be honest about what you do and don't know, and own your mistakes.
 - Keep asking questions, and stay curious.
 
-## Organisational fixes
+## Organizational fixes
 The product earns the money, not the docs. But user experience depends on whether users
 can reach their goals, and docs are central to that. Make meaningful documentation part
 of the **Definition of Done**.

@@ -11,7 +11,7 @@ metadata:
 
 A consistent style lowers readers' cognitive load and makes content feel authoritative.
 If the content design is simple, concise, and clear, you are already doing a lot for
-accessibility and localisation. Review in the passes below, from the highest impact to
+accessibility and localization. Review in the passes below, from the highest impact to
 the lowest.
 
 ## 0. Establish the standard
@@ -32,7 +32,7 @@ points:
 - Use a real heading hierarchy (no skipped levels) and lists for lists.
 - Every image has alt text that conveys its purpose. Diagrams also get a text equivalent.
 - Link text describes the destination. Never use "click here".
-- Meaning is never carried by colour, position, or emphasis alone.
+- Meaning is never carried by color, position, or emphasis alone.
 - Tables have header rows. Code goes in code blocks, not images of code.
 
 ## 3. Inclusive language and bias
@@ -45,7 +45,7 @@ Use [references/inclusive-language.md](references/inclusive-language.md):
 
 ## 4. Style and consistency
 - Use one term per concept, and keep a terminology list if the project has none.
-- Keep capitalisation of headings, product names, and UI labels consistent.
+- Keep capitalization of headings, product names, and UI labels consistent.
 - Format code, commands, file paths, and placeholders consistently.
 - Keep voice and tone steady. Prefer second person and active voice for instructions.
 
@@ -59,6 +59,6 @@ checklist.
   or guide).
 - Separate **must fix** (wrong, inaccessible, exclusionary) from **suggestions** (style).
 - When asked to edit directly, make minimal changes that preserve the author's voice
-  and meaning, then summarise what you changed by category.
+  and meaning, then summarize what you changed by category.
 - If a prose linter is configured (Vale), run it and include its results. See the
   `docs-tooling` skill.

@@ -14,8 +14,8 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
       - name: Validate skills, manifests, attribution, and links
@@ -28,4 +28,4 @@ jobs:
           bash scripts/install.sh opencode --project "$tmp" --uninstall
           test ! -e "$tmp/.opencode/skills/docs-review"
       - name: REUSE compliance
-        uses: fsfe/reuse-action@v5
+        uses: fsfe/reuse-action@v6

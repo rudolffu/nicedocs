@@ -25,7 +25,7 @@ Write for one audience at a time. Separate the user docs from the contributor do
 | How to get support | Channels for help and community interaction | [Django](https://docs.djangoproject.com/en/stable/faq/help/) |
 | How to contribute | The project's own contribution process and standards | — |
 | Installation | One or two lines for the basic case, with a link to details and caveats | [Read the Docs](https://docs.readthedocs.com/dev/latest/install.html) |
-| Licence | One standard licence, named clearly | — |
+| License | One standard license, named clearly | — |
 
 ## FAQs: use sparingly
 FAQs can be starter docs, but they:

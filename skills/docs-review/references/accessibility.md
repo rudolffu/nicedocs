@@ -1,7 +1,7 @@
 # Accessibility (a11y) for documentation
 
 Writing for accessibility means screen readers can read the text, the content is well
-organised, emphasis and colour stay readable, and more. Docs are part of the product,
+organized, emphasis and color stay readable, and more. Docs are part of the product,
 so they need the same accessibility care. (`a11y` is a numeronym: "a", then 11 letters,
 then "y".)
 
@@ -15,7 +15,7 @@ Text
 - [ ] Plain, concise sentences. Jargon and acronyms are expanded on first use.
 - [ ] Instructions do not rely only on sensory or spatial cues ("the green button", "on
       the right"). Name the control.
-- [ ] Emphasis (bold, italics, colour) is never the only carrier of meaning.
+- [ ] Emphasis (bold, italics, color) is never the only carrier of meaning.
 
 Links
 - [ ] Link text describes the destination and is unique on the page. No "click here" or

@@ -33,7 +33,7 @@ Section 1.1
 ## Lists
 ```rst
 1. Arabic numbers        A. Letters (upper or lower)       I. Roman numerals
-(1) Parenthesised        1) Right bracket                  #. Auto-numbered
+(1) Parenthesized        1) Right bracket                  #. Auto-numbered
 
 * Bullet (``-``, ``+``, or ``*``)
 

@@ -40,4 +40,4 @@ Ask questions in {{forum / discussions / chat / mailing list}}.
 
 ## License
 
-{{project}} is licensed under the {{licence name}}. See `LICENSE`.
+{{project}} is licensed under the {{license name}}. See `LICENSE`.

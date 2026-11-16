@@ -15,19 +15,21 @@ This page lists each resource and how it is used here.
 | [Reading list](https://www.writethedocs.org/books/) | **Titles only.** The books are copyrighted works; skills mention a few by title. |
 | [Guide to hiring and getting hired](https://www.writethedocs.org/hiring-guide/) | Out of scope for v0.1 (career, not doc writing). |
 | [Salary survey](https://www.writethedocs.org/surveys/) | Out of scope (compensation data). |
-| [Organizer guide](https://www.writethedocs.org/organizer-guide/) | Out of scope (event organising). |
+| [Organizer guide](https://www.writethedocs.org/organizer-guide/) | Out of scope (event organizing). |
 
 ## Skill map
 
-```
-Write the Docs Documentation Guide
-├── Principles ─────────────────────────────► docs-principles
-├── How to start writing / new docs ────────► project-docs
-├── Style guides · accessibility · bias · UX ► docs-review
-├── Markup languages ───────────────────────► docs-markup
-├── Docs as code · DocOps · tools · SEO · API ► docs-tooling
-└── Mindshare · support teams · imposter ───► docs-advocacy
-```
+Each part of the Documentation Guide feeds one skill. For the exact page-to-file map,
+see [ATTRIBUTION.md](../ATTRIBUTION.md#source-page--adapted-file-map).
+
+| Guide section | Skill |
+|---|---|
+| Documentation principles | [`docs-principles`](../skills/docs-principles/SKILL.md) |
+| How to start writing; starting a new doc | [`project-docs`](../skills/project-docs/SKILL.md) |
+| Style guides, accessibility, reducing bias, UX writing | [`docs-review`](../skills/docs-review/SKILL.md) |
+| Markup languages | [`docs-markup`](../skills/docs-markup/SKILL.md) |
+| Docs as code, DocOps, tools, SEO, API documentation | [`docs-tooling`](../skills/docs-tooling/SKILL.md) |
+| Mindshare, support teams, imposter syndrome | [`docs-advocacy`](../skills/docs-advocacy/SKILL.md) |
 
 ## Community
 For questions about documentation practice, the Write the Docs community runs a

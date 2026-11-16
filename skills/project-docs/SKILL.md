@@ -1,6 +1,6 @@
 ---
 name: project-docs
-description: Plan and write the core documentation a software project needs, including the README, project description, quick-start example, installation, support, contributing, licence, FAQ, and release notes, following Write the Docs guidance. Use when creating or rewriting a README, documenting a new or open-source project, starting a brand-new doc for a product, writing release notes or an FAQ, or when a user asks "what docs does my project need?".
+description: Plan and write the core documentation a software project needs, including the README, project description, quick-start example, installation, support, contributing, license, FAQ, and release notes, following Write the Docs guidance. Use when creating or rewriting a README, documenting a new or open-source project, starting a brand-new doc for a product, writing release notes or an FAQ, or when a user asks "what docs does my project need?".
 license: CC-BY-NC-SA-4.0
 metadata:
   author: Yuming Fu
@@ -25,7 +25,7 @@ can't tell, ask the user (or the experts they name):
   driven through a GUI?
 
 The answers decide the *form* of the docs. A GUI app needs step-by-step task guides.
-An SDK or API needs reference material organised so readers can look things up. A tool
+An SDK or API needs reference material organized so readers can look things up. A tool
 installed by sysadmins needs more installation scenarios. See
 [references/starting-a-new-doc.md](references/starting-a-new-doc.md).
 
@@ -39,7 +39,7 @@ Start from [assets/README.template.md](assets/README.template.md). Every README 
 4. **Links to the code and issue tracker.**
 5. **Support.** Say where to ask for help (forum, chat, mailing list, discussions).
 6. **Contributing.** Say how to contribute, or link to `CONTRIBUTING.md`.
-7. **Licence.** Name one standard licence.
+7. **License.** Name one standard license.
 
 Details and rationale: [references/what-to-include.md](references/what-to-include.md).
 
@@ -58,7 +58,7 @@ Details and rationale: [references/what-to-include.md](references/what-to-includ
   Discoverable.
 - Run every command and code sample you wrote, or say clearly which ones you could
   not run.
-- Check that each link resolves and that the licence named matches the `LICENSE` file.
+- Check that each link resolves and that the license named matches the `LICENSE` file.
 - Leave claims you could not verify as clearly marked `TODO:` items for the user. Do
   not invent features, URLs, maintainers, or support channels.
 
@@ -66,5 +66,5 @@ Details and rationale: [references/what-to-include.md](references/what-to-includ
 - Name the file `README.md` (Markdown) or `README.rst` (reStructuredText) so code hosts
   render it.
 - Put headings in this order: what it is, example, features, install, usage, contribute,
-  support, licence.
+  support, license.
 - Keep the README for orientation and put depth in linked pages (Unique principle).

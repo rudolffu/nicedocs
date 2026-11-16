@@ -43,7 +43,7 @@ Typical DocOps responsibilities, which are useful when scoping work:
 - training authors so more people can contribute
 - managing content
 - building and maintaining the site theme
-- modelling the versioning strategy for the docs
+- modeling the versioning strategy for the docs
 - creating and maintaining build scripts
 - keeping the barrier to contributing low.
 

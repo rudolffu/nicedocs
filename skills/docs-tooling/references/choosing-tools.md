@@ -14,7 +14,7 @@ and knowledge. Use these questions to choose.
    that does the design for you?
 5. **Authoring style.** WYSIWYG or a text editor? Either way, you need previews and a
    staging area for reviewers.
-6. **Subject-matter-expert reviews.** Does each reviewer need a licence, or training on
+6. **Subject-matter-expert reviews.** Does each reviewer need a license, or training on
    a new tool?
 7. **Existing support portal** (Zendesk, Freshdesk, Salesforce Service)? Its knowledge
    base might be the best place for the docs.
@@ -25,7 +25,7 @@ and knowledge. Use these questions to choose.
 10. **Reuse and single-sourcing.** How much do you need?
 11. **Markup.** reStructuredText, Markdown, AsciiDoc, DocBook, DITA? (See the
     `docs-markup` skill.)
-12. **Contributors and reviewers.** How many? Licence and training costs scale with headcount.
+12. **Contributors and reviewers.** How many? License and training costs scale with headcount.
 13. **CI/CD.** Do you need pipeline support?
 14. **Translation.** Will the content work with a translation pipeline?
 
@@ -33,7 +33,7 @@ and knowledge. Use these questions to choose.
 - Spinning up an SSG can cost as much time as a commercial tool costs in money.
   Consider hiring an expert for initial setup and theming.
 - **Plan long-term maintenance.** Who upgrades the tooling? Who fixes it when it breaks?
-- Themes get you started, but organisations want their own look. Customising takes time
+- Themes get you started, but organizations want their own look. Customising takes time
   and skill.
 - Reuse features vary, including how content is reused and who can reuse it.
 - **Link maintenance.** Some tools track links and update them when pages move. Others

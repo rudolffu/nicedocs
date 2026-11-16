@@ -4,7 +4,7 @@ A documentation culture is valuable and hard to build. Here is a playbook.
 
 ## Making the case (for a developer at a company)
 Deadlines barely leave time for tests, and docs get pushed to the end. To justify docs
-time, connect them to costs the organisation already feels:
+time, connect them to costs the organization already feels:
 - **Your own future time.** Code from six months ago reads like a stranger's.
 - **Onboarding.** New team members ramp up faster with written docs.
 - **Interruptions and support.** The same questions answered again and again.
@@ -17,7 +17,7 @@ Then propose the small, concrete plan below.
 
 ### 1. State the problem narrowly
 Choose something you can nail, for example:
-> We will solve internal project documentation for the Engineering organisation.
+> We will solve internal project documentation for the Engineering organization.
 
 ### 2. Start in engineering
 It is usually the easiest place to get permission and see results. Typical targets:
@@ -28,11 +28,11 @@ It is usually the easiest place to get permission and see results. Typical targe
 
 ### 3. Gather input, openly
 Invite members of every team to the planning meetings. They don't have to attend, but
-the process must be open and public. That legitimises the outcome and surfaces
+the process must be open and public. That legitimizes the outcome and surfaces
 everyone's use cases.
 
 ### 4. Build a taxonomy
-Docs that grew organically have no organisation. Define a structure and keep it the same
+Docs that grew organically have no organization. Define a structure and keep it the same
 across projects.
 > You need an answer to "Where do I put it?"
 
@@ -48,7 +48,7 @@ and ideas, and shows momentum. Early on it plans and tracks the work. Later it d
 adoption and gathers feedback.
 
 ### 7. Make it long-term
-A docs system needs constant care: reorganising, pruning, maintenance. If you treat it as
+A docs system needs constant care: reorganizing, pruning, maintenance. If you treat it as
 "install the tools and walk away", it will fail like the last system.
 
 ---

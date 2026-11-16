@@ -11,12 +11,12 @@ tutorials, release notes, concept overviews.
 - A lone writer or a new small team can start their own. Still consult existing guides:
   they show which decisions matter.
 - A practical pattern: **adopt a published guide as the base, and keep a short project
-  guide of overrides** (product names, terminology, capitalisation, code formatting).
+  guide of overrides** (product names, terminology, capitalization, code formatting).
 
 Minimal project style guide outline:
 1. Base guide and precedence ("We follow X except where noted").
 2. Voice and tone (for example: second person, active voice, present tense).
-3. Terminology list: preferred term, terms to avoid, capitalisation.
+3. Terminology list: preferred term, terms to avoid, capitalization.
 4. Formatting: headings, code, UI labels, placeholders, notes and warnings.
 5. Accessibility and inclusive-language rules (see the sibling references).
 6. Content-type rules: tutorials, how-tos, reference, release notes, error messages.

@@ -6,7 +6,7 @@ NiceDocs adapts material from the **Write the Docs Documentation Guide**.
 - **Source repository:** [writethedocs/www](https://github.com/writethedocs/www), pinned at
   commit [`c37669d0c87740b1455821cbee7fc10c8ee6cf7f`](https://github.com/writethedocs/www/tree/c37669d0c87740b1455821cbee7fc10c8ee6cf7f/docs/guide)
 - **Copyright:** © Write the Docs contributors
-- **Licence:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/),
+- **License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/),
   as stated in the source repository's
   [`LICENSE.md`](https://github.com/writethedocs/www/blob/c37669d0c87740b1455821cbee7fc10c8ee6cf7f/LICENSE.md)
 - **Adapter:** Yuming Fu, 2026
@@ -16,14 +16,14 @@ endorsed by Write the Docs.
 
 ## Changes made
 
-The source pages were **condensed, reorganised, and rewritten as instructions,
+The source pages were **condensed, reorganized, and rewritten as instructions,
 checklists, and templates for AI agents**. Specifically:
 - Pages were grouped into six skills, and related pages were merged into single references.
 - Prose was shortened. Many link lists were trimmed to a selection, and talk lists and
   most book links were dropped.
 - Checklists, decision tables, output templates, example rewrites, and agent guardrails
   were added. These additions are original work by Yuming Fu, released under the same
-  CC BY-NC-SA 4.0 licence.
+  CC BY-NC-SA 4.0 license.
 - Every adapted file ends with a footer that names its specific source page(s) and
   describes the changes.
 
@@ -52,7 +52,7 @@ checklists, and templates for AI agents**. Specifically:
 | `writing/support-team.rst` | `skills/docs-advocacy/references/support-teams.md` |
 | `imposter.rst` | `skills/docs-advocacy/references/imposter-syndrome.md` |
 
-The `SKILL.md` files summarise their references and are adaptations under the same terms.
+The `SKILL.md` files summarize their references and are adaptations under the same terms.
 
 ## Third-party material
 

@@ -22,7 +22,7 @@ docs. Background: [references/docs-as-code.md](references/docs-as-code.md).
    budget (money and time), outputs, skills available, WYSIWYG versus text, review
    process, existing company tools, version control, reuse needs, contributor count,
    CI/CD, translation.
-2. Prefer what already exists in the organisation or ecosystem. For example, Python
+2. Prefer what already exists in the organization or ecosystem. For example, Python
    projects usually choose Sphinx and JS projects often choose Docusaurus.
 3. Recommend one option with reasons and the main trade-off. Name who will maintain it
    long-term.

@@ -1,4 +1,4 @@
-# Search engine optimisation (SEO) for documentation
+# Search engine optimization (SEO) for documentation
 
 For public docs sites, search engines bring a large share of the traffic. SEO is about
 improving how pages rank for relevant searches. Search algorithms change often, so

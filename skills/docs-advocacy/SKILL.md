@@ -9,7 +9,7 @@ metadata:
 
 # Documentation advocacy and culture
 
-Docs fail more often for organisational reasons than for writing reasons. This skill
+Docs fail more often for organizational reasons than for writing reasons. This skill
 helps people win support for docs, build systems colleagues will actually use, and
 work confidently with technical experts.
 
@@ -30,7 +30,7 @@ work confidently with technical experts.
    taxonomy ("where do I put it?"), templates, a meeting cadence, and long-term ownership.
 3. **A support–docs workflow:** an intake channel for doc issues, a review loop with
    support agents, and metrics such as fewer repeat tickets.
-4. **Talking points or a coaching note** for a writer facing scepticism or knowledge gaps.
+4. **Talking points or a coaching note** for a writer facing skepticism or knowledge gaps.
 
 ## Principles to apply
 - **Start small and winnable.** "Internal project docs in Engineering" beats "fix

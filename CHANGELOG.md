@@ -4,6 +4,22 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions follow
 [Semantic Versioning](https://semver.org/).
 
+## [Unreleased]
+
+### Changed
+- README reworked after auditing it with NiceDocs' own skills. Added a quick start,
+  "How it works", Codex CLI install (`codex plugin add`), update and uninstall commands for
+  each platform, requirements, troubleshooting, and a support section.
+- CONTRIBUTING expanded with ways to contribute, setup, writing conventions, the files to
+  update when adding a skill, and the release and upstream-sync steps.
+- Spelling standardized to US English across all docs and skills.
+- `docs/sources.md` skill map converted from a text diagram to an accessible table.
+- CI actions updated to current major versions.
+
+### Added
+- Pull request template with a docs checklist.
+- Weekly external link-check workflow (lychee).
+
 ## [0.1.0] - 2026-11-16
 
 ### Added

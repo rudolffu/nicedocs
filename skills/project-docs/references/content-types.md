@@ -7,7 +7,7 @@ give them.
 An FAQ is short and limited. It covers need-to-know information and points to fuller
 pages. An effective FAQ:
 - reflects real audience needs, for example the search queries that lead to the docs
-- is updated as user behaviour and data change
+- is updated as user behavior and data change
 - sends readers on to detailed pages
 - holds topics too small to justify their own page.
 

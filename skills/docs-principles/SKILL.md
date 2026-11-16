@@ -32,7 +32,7 @@ a finding or the user asks "why".
 | Publication | **Addressable** | Can readers link to a specific section (stable anchors, URLs)? |
 | Publication | **Cumulative** | Are prerequisites covered before the things that depend on them? |
 | Publication | **Complete** | For each kind of thing covered, is *every* instance covered, or is the gap stated up front? |
-| Publication | **Beautiful** | Is visual style (spacing, capitalisation, layout) intentional? |
+| Publication | **Beautiful** | Is visual style (spacing, capitalization, layout) intentional? |
 | Body | **Comprehensive** | Together, do the publications answer the questions users are *likely* to ask? |
 
 Vocabulary: a **source** is where content is stored and edited (Markdown files, docstrings,
@@ -48,7 +48,7 @@ PDF, API reference). The **body** is all publications of a project.
 3. **Score each principle** as `pass`, `partial`, or `fail`. Give concrete evidence:
    file path and heading, a quoted phrase under 15 words, or a missing item.
    Mark `n/a` only when a principle truly does not apply.
-4. **Prioritise.** Order the fixes by reader impact. Incorrect content (Current) and
+4. **Prioritize.** Order the fixes by reader impact. Incorrect content (Current) and
    missing entry points (Discoverable) usually come first. Beauty and minor
    consistency come last.
 5. **Propose fixes.** Make each fix actionable (what to change, where). Offer to apply
