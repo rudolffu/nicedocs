@@ -1,0 +1,6 @@
+{
+  "name": "nicedocs",
+  "version": "0.1.0",
+  "description": "Documentation-writing skills for AI coding agents, built on the Write the Docs Documentation Guide.",
+  "contextFileName": "GEMINI.md"
+}

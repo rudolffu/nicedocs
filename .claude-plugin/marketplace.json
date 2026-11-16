@@ -1,0 +1,26 @@
+{
+  "name": "nicedocs",
+  "owner": {
+    "name": "Yuming Fu"
+  },
+  "metadata": {
+    "description": "NiceDocs: documentation-writing skills for AI coding agents, built on Write the Docs.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "nicedocs",
+      "source": "./",
+      "description": "Documentation-writing skills built on the Write the Docs Documentation Guide.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Yuming Fu"
+      },
+      "homepage": "https://github.com/rudolffu/nicedocs",
+      "repository": "https://github.com/rudolffu/nicedocs",
+      "license": "CC-BY-NC-SA-4.0 AND MIT",
+      "category": "documentation",
+      "keywords": ["documentation", "technical-writing", "write-the-docs"]
+    }
+  ]
+}

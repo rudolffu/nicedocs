@@ -1,0 +1,25 @@
+{
+  "name": "nicedocs",
+  "version": "0.1.0",
+  "description": "Documentation-writing skills for AI coding agents, built on the Write the Docs Documentation Guide: principles audit, READMEs and project docs, style/accessibility/inclusive-language review, markup (Markdown, reST, AsciiDoc, XML), docs-as-code tooling, and docs advocacy.",
+  "author": {
+    "name": "Yuming Fu",
+    "url": "https://github.com/rudolffu"
+  },
+  "homepage": "https://github.com/rudolffu/nicedocs",
+  "repository": "https://github.com/rudolffu/nicedocs",
+  "license": "CC-BY-NC-SA-4.0 AND MIT",
+  "keywords": [
+    "documentation",
+    "technical-writing",
+    "write-the-docs",
+    "readme",
+    "style-guide",
+    "accessibility",
+    "docs-as-code",
+    "sphinx",
+    "markdown",
+    "restructuredtext",
+    "asciidoc"
+  ]
+}

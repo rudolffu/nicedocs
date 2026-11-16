@@ -1,0 +1,37 @@
+version = 1
+
+# Documentation content: adapted from the Write the Docs Documentation Guide
+# (CC BY-NC-SA 4.0, ShareAlike) plus original prose by Yuming Fu.
+[[annotations]]
+path = [
+  "skills/**",
+  "docs/**",
+  "GEMINI.md",
+  "README.md",
+  "ATTRIBUTION.md",
+  "CONTRIBUTING.md",
+  "CHANGELOG.md",
+  "LICENSE.md",
+]
+precedence = "aggregate"
+SPDX-FileCopyrightText = [
+  "2026 Yuming Fu",
+  "Write the Docs contributors <https://www.writethedocs.org/>",
+]
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+# Code and configuration: original work by Yuming Fu.
+[[annotations]]
+path = [
+  "scripts/**",
+  ".github/**",
+  ".claude-plugin/**",
+  ".codex-plugin/**",
+  ".agents/**",
+  "gemini-extension.json",
+  "REUSE.toml",
+  ".gitignore",
+]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 Yuming Fu"
+SPDX-License-Identifier = "MIT"

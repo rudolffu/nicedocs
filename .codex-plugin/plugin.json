@@ -1,0 +1,28 @@
+{
+  "name": "nicedocs",
+  "version": "0.1.0",
+  "description": "Documentation-writing skills for AI coding agents, built on the Write the Docs Documentation Guide.",
+  "author": {
+    "name": "Yuming Fu",
+    "url": "https://github.com/rudolffu"
+  },
+  "homepage": "https://github.com/rudolffu/nicedocs",
+  "repository": "https://github.com/rudolffu/nicedocs",
+  "license": "CC-BY-NC-SA-4.0 AND MIT",
+  "keywords": ["documentation", "technical-writing", "write-the-docs", "readme", "style-guide", "docs-as-code"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "NiceDocs",
+    "shortDescription": "Write, review, and tool up great software docs",
+    "longDescription": "Six skills adapted from the Write the Docs Documentation Guide: a documentation-principles audit, READMEs and project docs, style, accessibility and inclusive-language review, markup help for Markdown, reStructuredText, AsciiDoc and XML, docs-as-code tooling and CI checks, and documentation advocacy. Content is CC BY-NC-SA 4.0; code is MIT.",
+    "developerName": "Yuming Fu",
+    "category": "Coding",
+    "capabilities": ["Interactive", "Write"],
+    "websiteURL": "https://github.com/rudolffu/nicedocs",
+    "defaultPrompt": [
+      "Write a README for this project",
+      "Audit our docs against the Write the Docs principles",
+      "Review this doc for style and accessibility"
+    ]
+  }
+}
